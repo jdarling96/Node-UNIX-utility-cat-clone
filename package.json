@@ -1,0 +1,22 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "A program similar to the standard UNIX utility, cat.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jdarling96/Node-UNIX-utility-cat-clone.git"
+  },
+  "author": "jdarling96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdarling96/Node-UNIX-utility-cat-clone/issues"
+  },
+  "homepage": "https://github.com/jdarling96/Node-UNIX-utility-cat-clone#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
